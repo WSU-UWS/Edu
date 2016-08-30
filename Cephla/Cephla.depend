@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1472039374 source:c:\users\user\desktop\working\board.cpp
+	"Board.h"
+	<iostream>
+
+1472039374 c:\users\user\desktop\working\board.h
+
+1472039374 source:c:\users\user\desktop\working\player.cpp
+	"Player.h"
+
+1472039374 c:\users\user\desktop\working\player.h
+	<iostream>
+
+1472518942 source:c:\users\user\desktop\working\game.cpp
+	<iostream>
+	"GameRules.h"
+
+1472514910 c:\users\user\desktop\working\gamerules.h
+	<iostream>
+	"Board.h"
+	"Player.h"
+	<cmath>
+	<algorithm>
+
+1472519896 source:c:\users\user\desktop\working\gamerules.cpp
+	"GameRules.h"
+	<sstream>
+
